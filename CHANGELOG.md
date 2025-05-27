@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.6](https://github.com/google-a2a/a2a-python/compare/v0.2.5...v0.2.6) (2025-05-27)
+
+
+### Bug Fixes
+
+* Remove examples from toml ([#127](https://github.com/google-a2a/a2a-python/issues/127)) ([2b29c09](https://github.com/google-a2a/a2a-python/commit/2b29c09c5181e0dd536832a47c72a4689ea95b5b))
+
 ## [0.2.5](https://github.com/google-a2a/a2a-python/compare/v0.2.4...v0.2.5) (2025-05-27)
 
 
